@@ -1,0 +1,26 @@
+User starts off being briefed by the narrator: There is a infamous hacker named "The shadow" that is hacking the world's top research lab trying to release a top-secret sample to the world. 
+The motive of this attack is unknown, although the shadow is known for many unethical attacks in the past.
+ Your goal is to prevent the shadow from releasing the sample, it can not be stressed enough how important this mission is. 
+
+The user will go through some choices trying to stop the shadow, but it is not a guaranteed success. 
+If the user fails to stop the shadow from releasing the sample into the world it will become known that the sample was actually a highly infectious virus which could be fatal. 
+|The user then will have a choice of 2 options, he will either try to secure the world's 6 shelters, or he will try to develop a cure. 
+
+Option 1: Securing the world's 7 shelters, each continent except for antartica has 1 basic shelter. 
+Antartica has the VIP shelter, which will be to use of the world's super-rich and elite.  
+the downside is that there will be alot of people worldwide which will not be able to get to a shelter fast enough, but it is less risky than option 2 and will secure the safety of the user if he succeeds. 
+
+Option 2: The user finds out that there was a cure in the lab's database, but the shadow has stolen it and has it secured somewhere in his files.
+ The user will try to hack into the shadow's files and steal the cure, he will then release it to the scientists worldwide and humanity will be saved. 
+ But if the user fails then it is detrimental to mankind, and all will be wiped out. 
+ Because the user chose to not secure the shelters and take the risk of curing the virus, the shadow has hacked all shelters making them slammed shut for everyone except for ofcourse, himself. 
+
+ 
+
+START 
+
+Introduction 
+
+STEP 1: The shadow is roumored to be working on a new attack, The government has been notified of this. They have asked you to take on this task. 
+
+STEP 2:
